@@ -1,0 +1,62 @@
+*{ padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+}
+body{
+background-color: #f0ddc7;;
+}
+
+h1{ 
+    text-align: center;
+    text-size-adjust: 500px;
+}
+.Ing{
+     color: rgb(195, 43, 226);
+     background-color:pink;
+     text-align: center;
+     justify-content: center;
+     display: flex;
+}
+
+ul{
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+}
+
+.Mdp{
+     background-color: rgb(157, 215, 249);
+     color: rgb(0, 72, 173);
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+}
+.numeros{
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+}
+
+  .nm{
+     color: rgb(0, 0, 0);
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     padding: 20px;
+  }  
+  
+
+  div{
+       text-align: center;
+  }
+  
+  img{
+      width: 550px;
+      height: 400px; 
+ }
+
+ 
+  
