@@ -1,6 +1,6 @@
 # receita-de-brownie
 
-![](./img/brownie.png)
+![](./brownie.png)
 
 ## Descrição
 Como fazer um brownie de chocolate
